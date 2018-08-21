@@ -1,0 +1,11 @@
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/bin/Debug/netcoreapp2.1/hosting.deps.json
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/bin/Debug/netcoreapp2.1/hosting.runtimeconfig.json
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/bin/Debug/netcoreapp2.1/hosting.runtimeconfig.dev.json
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/bin/Debug/netcoreapp2.1/hosting.dll
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/bin/Debug/netcoreapp2.1/hosting.pdb
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.csprojAssemblyReference.cache
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.csproj.CoreCompileInputs.cache
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.AssemblyInfoInputs.cache
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.AssemblyInfo.cs
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.dll
+/Users/igor.goncalves/Documents/Projetos/curso_netcore_udemy/hosting/obj/Debug/netcoreapp2.1/hosting.pdb
